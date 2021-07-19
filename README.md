@@ -1,4 +1,4 @@
-# ci_png_to_jpeg
-Convert Image type PNG to JPEG
+# CI4 PNG to JPEG
 
-to view form upload navigate to controller Image function index (Image/index)
+Convert Image type PNG to JPEG, to view form upload navigate to controller Image function index (Image/index)
+Based on codeigniter 4, Jquery, Bootstrap 
